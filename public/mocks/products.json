@@ -8,7 +8,7 @@
       "discount": "10% off",
       "brand": "Apple",
       "category": "smartphones",
-      "images": ["./image/sm/iPhone_15_ProMax.png"]
+      "images": ["./image/sm/iPhone 9.png"]
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
       "brand": "Apple",
       "category": "smartphones",
 
-      "images": ["./image/sm/iPhone_15_Pro.png"]
+      "images": ["./image/sm/iPhone X.png"]
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
       "discountPercentage": 15.46,
       "brand": "Apple",
       "category": "smartphones",
-      "images": ["./image/sm/iPhone_15_Plus.png"]
+      "images": ["./image/sm/Samsung Universe 9.png"]
     },
     {
       "id": 4,
@@ -40,7 +40,7 @@
       "originalprice": " $799",
       "brand": "Apple",
       "category": "smartphones",
-      "images": ["./image/sm/iPhone_15.png"]
+      "images": ["./image/sm/OPPOF19.png"]
     },
     {
       "id": 5,
