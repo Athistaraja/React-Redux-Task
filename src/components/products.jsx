@@ -49,6 +49,8 @@ const Products = () => {
               Current Price: <i className="fa fa-inr"></i>
               {product.price}
             </Card.Text>
+            <Card.Text>Brand: {product.brand}</Card.Text>
+            <Card.Text ><a style={{ backgroundcolor:"warning" }}>discount: {product.discount}</a></Card.Text>
             <Button
               variant="primary"
               className="add"
